@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Weapon Detection YOLO Model</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Abdelmoniem-AA/Weapon-Detection-YOLO/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://img.shields.io/badge/python-3.14-blue"></p>
 
 <p id="description">A real-time weapon detection using Ultralytics YOLO11 trained on a custom 3000+ image dataset.</p>
 
