@@ -19,6 +19,7 @@
 <p><b>Note:</b> The dataset is not included in the repository due to its size.</p>
 
 <h2>Technologies Used</h2>
+
 *   Python
 *   Ultralytics YOLO11
 *   OpenCV
