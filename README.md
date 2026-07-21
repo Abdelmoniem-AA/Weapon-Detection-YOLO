@@ -25,7 +25,8 @@
 *   Playwright
 *   CVAT
 
-<h2>Results</h2>
+## Results
+
 | Metric | Value |
 |--------|------:|
 | mAP@50 | 0.573 |
@@ -33,7 +34,8 @@
 | Precision | 0.749 |
 | Recall | 0.471 |
 
-<h2>Class Performance</h2>
+## Class Performance
+
 | Class | Precision | Recall | mAP@50 | mAP@50-95 |
 |-------|----------:|-------:|--------:|----------:|
 | Gun | 0.633 | 0.425 | 0.482 | 0.318 |
