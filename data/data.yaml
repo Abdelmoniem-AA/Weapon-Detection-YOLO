@@ -1,0 +1,8 @@
+names:
+  0: Gun
+  1: Knife/Machete
+  2: Axe
+  3: Grenade
+path: .
+train: data/train.txt
+val: data/val.txt
